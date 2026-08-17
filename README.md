@@ -203,10 +203,12 @@ This lab exists strictly for education and authorized testing. It is not a tool 
 ## 👤 Author
 
 ** Nason Kasumpa ** — Cybersecurity student B082
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/nason-kasumpa-0b8a4942a/
 
 ---
 
 ## 📌 Project Details
 
-Program: Cybersecurity at Networkwalks  Week: 01  Project: Cybersecurity & Pentesting Lab Setupcurity & Pentesting Lab Setup | Repository: GitHub
+Program: Cybersecurity at Networkwalks  
+Week: 01  
+Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
