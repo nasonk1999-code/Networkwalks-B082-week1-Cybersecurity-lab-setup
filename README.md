@@ -203,7 +203,7 @@ This lab exists strictly for education and authorized testing. It is not a tool 
 ## 👤 Author
 
 ** Nason Kasumpa ** — Cybersecurity student B082
-LinkedIn:
+LinkedIn:https://www.linkedin.com/feed/update/urn:li:activity:7502729697236078593/
 ---
 
 ## 📌 Project Details
